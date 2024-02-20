@@ -1,8 +1,11 @@
 # Employee Entry PC Configuration
 
 Date : 20/02/2024
+
 GPU : Nvidia Quadro T2000
+
 CPU : Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+
 OS : Ubuntu 22.04.4 LTS
 
 ## Nvidia Pilot
